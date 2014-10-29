@@ -1,0 +1,81 @@
+<?xml version = "1.0" ?>
+<?xml:stylesheet type="text/xsl" href="Ball_dropper.xsl"?>
+<!DOCTYPE GRID [
+  <!ELEMENT GRID (BANDS, COLUMNS, ROWS*)>
+  <!ATTLIST GRID ExportVersion CDATA #REQUIRED>
+  <!ELEMENT BANDS (BAND*)>
+  <!ELEMENT BAND EMPTY>
+  <!ATTLIST BAND Index CDATA #REQUIRED>
+  <!ATTLIST BAND Caption CDATA #IMPLIED>
+  <!ELEMENT COLUMNS (COLUMN*)>
+  <!ELEMENT COLUMN EMPTY>
+  <!ATTLIST COLUMN Name CDATA #REQUIRED>
+  <!ATTLIST COLUMN Caption CDATA #IMPLIED>
+  <!ATTLIST COLUMN Index CDATA #REQUIRED>
+  <!ATTLIST COLUMN BandIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN RowIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN ColIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN Width CDATA #IMPLIED>
+  <!ELEMENT GROUP (GROUP*, ROW*)>
+  <!ATTLIST GROUP GroupText CDATA #IMPLIED>
+  <!ELEMENT ROWS (ROW*)>
+  <!ELEMENT ROW EMPTY>
+  <!ATTLIST ROW Comment CDATA #IMPLIED>
+  <!ATTLIST ROW Description CDATA #IMPLIED>
+  <!ATTLIST ROW Designator CDATA #IMPLIED>
+  <!ATTLIST ROW Footprint CDATA #IMPLIED>
+  <!ATTLIST ROW LibRef CDATA #IMPLIED>
+  <!ATTLIST ROW Quantity CDATA #IMPLIED>
+]>
+<GRID ExportVersion="1.0">
+  <BANDS>
+    <BAND Index="0" Caption=""></BAND>
+  </BANDS>
+  <COLUMNS>
+    <COLUMN Name="Comment" Caption="Comment" Index="0" BandIndex="0" RowIndex="0" ColIndex="0" Width="100"></COLUMN>
+    <COLUMN Name="Description" Caption="Description" Index="1" BandIndex="0" RowIndex="0" ColIndex="1" Width="100"></COLUMN>
+    <COLUMN Name="Designator" Caption="Designator" Index="2" BandIndex="0" RowIndex="0" ColIndex="2" Width="100"></COLUMN>
+    <COLUMN Name="Footprint" Caption="Footprint" Index="3" BandIndex="0" RowIndex="0" ColIndex="3" Width="100"></COLUMN>
+    <COLUMN Name="LibRef" Caption="LibRef" Index="4" BandIndex="0" RowIndex="0" ColIndex="4" Width="100"></COLUMN>
+    <COLUMN Name="Quantity" Caption="Quantity" Index="5" BandIndex="0" RowIndex="0" ColIndex="5" Width="100"></COLUMN>
+  </COLUMNS>
+  <ROWS>
+    <ROW Comment="CAP 100nF 10V 0603&#40;1608&#41;" Description="CAP 100nF 10V -20&#37; to +80&#37; 0603 &#40;1608 Metric&#41; Thickness 1mm SMD" Designator="C1, C12, C13, C14, C15, C16, C17, C34" Footprint="CAPC0603&#40;1608&#41;100_N" LibRef="CMP-1035-02582-1" Quantity="8"></ROW>
+    <ROW Comment="TantalumCap7343" Description="100uF, 47uF, 47uF, 47uF, 47uF, 47uF, 47uF" Designator="C2, C5, C20, C24, C28, C32, C35" Footprint="TantalumCap7343" LibRef="TantalumCap7343" Quantity="7"></ROW>
+    <ROW Comment="CAP 10uF 10V 0603&#40;1608&#41;" Description="CAP 10uF 10V &#177;20&#37; 0603 &#40;1608 Metric&#41; Thickness 1mm SMD" Designator="C3" Footprint="CAPC0603&#40;1608&#41;100_M" LibRef="CMP-1035-02800-1" Quantity="1"></ROW>
+    <ROW Comment="CAP 470nF 16V 0603&#40;1608&#41;" Description="CAP 470nF 16V &#177;20&#37; 0603 &#40;1608 Metric&#41; Thickness 1mm SMD" Designator="C4" Footprint="CAPC0603&#40;1608&#41;100_N" LibRef="CMP-1035-02701-1" Quantity="1"></ROW>
+    <ROW Comment="CAP 470pF 16V 0603&#40;1608&#41;" Description="CAP 470pF 16V &#177;2&#37; 0603 &#40;1608 Metric&#41; Thickness 1mm SMD" Designator="C6" Footprint="CAPC0603&#40;1608&#41;100_N" LibRef="CMP-1035-01664-1" Quantity="1"></ROW>
+    <ROW Comment="CAP 470nF 10V 0603&#40;1608&#41;" Description="CAP 470nF 10V &#177;10&#37; 0603 &#40;1608 Metric&#41; Thickness 1mm SMD" Designator="C7" Footprint="CAPC0603&#40;1608&#41;100_N" LibRef="CMP-1035-02696-1" Quantity="1"></ROW>
+    <ROW Comment="CAP 33uF 10V 1206&#40;3216&#41;" Description="CAP 33uF 10V &#177;20&#37; 1206 &#40;3216 Metric&#41; Thickness 1.9mm SMD" Designator="C8" Footprint="CAPC1206&#40;3216&#41;190_M" LibRef="CMP-1037-04997-1" Quantity="1"></ROW>
+    <ROW Comment="CAP 10nF 10V 0603&#40;1608&#41;" Description="CAP 10nF 10V &#177;2&#37; 0603 &#40;1608 Metric&#41; Thickness 1mm SMD" Designator="C9" Footprint="CAPC0603&#40;1608&#41;100_M" LibRef="CMP-1035-02304-1" Quantity="1"></ROW>
+    <ROW Comment="CAP 22pF 10V 0603&#40;1608&#41;" Description="CAP 22pF 10V &#177;0.25pF 0603 &#40;1608 Metric&#41; Thickness 1mm SMD" Designator="C10, C11" Footprint="CAPC0603&#40;1608&#41;100_M" LibRef="CMP-1035-00797-1" Quantity="2"></ROW>
+    <ROW Comment="CAP 1uF 25V 1206&#40;3216&#41;" Description="CAP 1uF 25V &#177;5&#37; 1206 &#40;3216 Metric&#41; Thickness 1.3mm SMD" Designator="C18, C22, C26, C30" Footprint="CAPC1206&#40;3216&#41;130_M" LibRef="CMP-1037-04697-1" Quantity="4"></ROW>
+    <ROW Comment="CAP 33nF 25V 1206&#40;3216&#41;" Description="CAP 33nF 25V &#177;20&#37; 1206 &#40;3216 Metric&#41; Thickness 1mm SMD, CAP 33nF 25V &#177;1&#37; 1206 &#40;3216 Metric&#41; Thickness 1mm SMD" Designator="C21, C29" Footprint="CAPC1206&#40;3216&#41;100_N" LibRef="CMP-1037-03874-1, CMP-1037-03869-1" Quantity="2"></ROW>
+    <ROW Comment="CAP 33nF 25V 1206&#40;3216&#41;" Description="CAP 33nF 25V &#177;1&#37; 1206 &#40;3216 Metric&#41; Thickness 1mm SMD" Designator="C25, C33" Footprint="CAPC1206&#40;3216&#41;100_L" LibRef="CMP-1037-03869-1" Quantity="2"></ROW>
+    <ROW Comment="1N4148WT" Description="High Conductance Fast Switching Diode, 75 V, -55 to 150 degC, 2-Pin SOD523F, RoHS" Designator="D1" Footprint="DIODE_SMC" LibRef="CMP-0881-00001-1" Quantity="1"></ROW>
+    <ROW Comment="BAT60A" Description="Silicon Schottky Diode, -55 to 85 degC, SOD323, Reel, Green" Designator="D2" Footprint="DIODE_SMC" LibRef="CMP-1183-00008-1" Quantity="1"></ROW>
+    <ROW Comment="LED0" Description="Typical INFRARED GaAs LED" Designator="D3, D4, D5, D6, D7" Footprint="CAPC0603&#40;1608&#41;55_N" LibRef="LED0" Quantity="5"></ROW>
+    <ROW Comment="Inductor" Description="Inductor" Designator="L1" Footprint="TYS6045" LibRef="Inductor" Quantity="1"></ROW>
+    <ROW Comment="NIMBUS Logo" Description="" Designator="Logo1" Footprint="NIMBUS Logo" LibRef="NIMBUS Logo" Quantity="1"></ROW>
+    <ROW Comment="Header 6" Description="Header, 6-Pin" Designator="P1, P2, P3, P4" Footprint="DF3A-6P-2DS" LibRef="Header 6" Quantity="4"></ROW>
+    <ROW Comment="ISP" Description="Header, 3-Pin, Dual row" Designator="P5" Footprint="HDR2X3" LibRef="Header 3X2" Quantity="1"></ROW>
+    <ROW Comment="Header 3" Description="Header, 3-Pin" Designator="P6, P7, P8" Footprint="HDR1X3" LibRef="Header 3" Quantity="3"></ROW>
+    <ROW Comment="Header 2" Description="Header, 2-Pin" Designator="P9, P10, P11" Footprint="DF3A-2P-2DS" LibRef="Header 2" Quantity="3"></ROW>
+    <ROW Comment="10K 5&#37; 0603&#40;1608&#41;" Description="10K 0.1W 5&#37; 0603 &#40;1608 Metric&#41;  SMD" Designator="R1" Footprint="RESC0603&#40;1608&#41;_N" LibRef="CMP-1012-00098-1" Quantity="1"></ROW>
+    <ROW Comment="16K2 1&#37; 0603&#40;1608&#41;" Description="16K2 0.1W 1&#37; 0603 &#40;1608 Metric&#41;  SMD" Designator="R2" Footprint="RESC0603&#40;1608&#41;_N" LibRef="CMP-1012-00645-1" Quantity="1"></ROW>
+    <ROW Comment="100K 5&#37; 0603&#40;1608&#41;" Description="100K 0.1W 5&#37; 0603 &#40;1608 Metric&#41;  SMD" Designator="R3" Footprint="RESC0603&#40;1608&#41;_N" LibRef="CMP-1012-00122-1" Quantity="1"></ROW>
+    <ROW Comment="536K 1&#37; 0603&#40;1608&#41;" Description="536K 0.1W 1&#37; 0603 &#40;1608 Metric&#41;  SMD" Designator="R4" Footprint="RESC0603&#40;1608&#41;_M" LibRef="CMP-1012-00819-1" Quantity="1"></ROW>
+    <ROW Comment="40K2 1&#37; 0603&#40;1608&#41;" Description="40K2 0.1W 1&#37; 0603 &#40;1608 Metric&#41;  SMD" Designator="R5" Footprint="RESC0603&#40;1608&#41;_M" LibRef="CMP-1012-00691-1" Quantity="1"></ROW>
+    <ROW Comment="100R 5&#37; 0603&#40;1608&#41;" Description="100R 0.1W 5&#37; 0603 &#40;1608 Metric&#41;  SMD" Designator="R6, R7, R8, R9" Footprint="RESC0603&#40;1608&#41;_N" LibRef="CMP-1012-00050-1" Quantity="4"></ROW>
+    <ROW Comment="330R 5&#37; 0603&#40;1608&#41;" Description="330R 0.1W 5&#37; 0603 &#40;1608 Metric&#41;  SMD" Designator="R20, R21, R22, R23" Footprint="RESC0603&#40;1608&#41;_N" LibRef="CMP-1012-00062-1" Quantity="4"></ROW>
+    <ROW Comment="330R 5&#37; 0603&#40;1608&#41;" Description="330R 0.1W 5&#37; 0603 &#40;1608 Metric&#41;  SMD" Designator="R24" Footprint="RESC0603&#40;1608&#41;_L" LibRef="CMP-1012-00062-1" Quantity="1"></ROW>
+    <ROW Comment="TactileSwitch" Description="CKN9087CT-ND" Designator="S1" Footprint="TactileSwitch" LibRef="TactileSwitch" Quantity="1"></ROW>
+    <ROW Comment="XBEE/XBEE Pro" Description="XBEE/XBEE Pro" Designator="U1" Footprint="XBEE PRO" LibRef="Xbee Pro" Quantity="1"></ROW>
+    <ROW Comment="LT3480EMSE&#35;TRPBF" Description="2 A, 2.4 MHz Step-Down Switching Regulator with 70 uA Quiescent Current, 10-pin SOP &#40;MSE-10-EDP&#41;, -40 to 85 degC, Pb-Free, Tape and Reel" Designator="U2" Footprint="LT-MSE-10-EDP_L" LibRef="CMP-0491-01005-1" Quantity="1"></ROW>
+    <ROW Comment="LM3480" Description="LM3480IM3-3.3/NOPBCT-ND" Designator="U3" Footprint="LM3480" LibRef="LM3480" Quantity="1"></ROW>
+    <ROW Comment="Atmega2560-AU" Description="ATMEGA2560-16AURCT-ND" Designator="U4" Footprint="100T1_L" LibRef="Atmega2560-AU" Quantity="1"></ROW>
+    <ROW Comment="33887 H-Bridge" Description="MC33887APVWR2CT-ND" Designator="U5, U7, U9, U11" Footprint="MC33887" LibRef="33887 H Bridge" Quantity="4"></ROW>
+    <ROW Comment="NC7WZ14" Description="NC7WZ14P6XCT-ND" Designator="U6, U8, U10, U12" Footprint="NC7WZ14" LibRef="NC7WZ14" Quantity="4"></ROW>
+    <ROW Comment="FQ5032B-20" Description="Crystal Oscillator, SMD, 20MHz, Stab&#61;30ppm 20.0pF" Designator="Y1" Footprint="FOX-FQ5032B_V" LibRef="CMP-0399-00002-1" Quantity="1"></ROW>
+  </ROWS>
+</GRID>

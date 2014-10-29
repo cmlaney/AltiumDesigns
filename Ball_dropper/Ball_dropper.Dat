@@ -1,0 +1,38 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Ball_dropper.PrjPcb|ReportField=ProjectFullPath~C:\Users\Public\Documents\Altium\AltiumDesigns\Ball_dropper\Ball_dropper.PrjPcb|ReportField=Title~Bill of Materials For Project [Ball_dropper.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~79|ReportField=ReportTime~12:45:32 PM|ReportField=ReportDate~10/29/2014|ReportField=ReportDateTime~10/29/2014 12:45:32 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~10/29/2014|ReportField=CurrentTime~12:44:11 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Public\Documents\Altium\AltiumDesigns\Ball_dropper\Ball_Dropper.SchDoc|ReportField=DocumentName~Ball_Dropper.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~10/29/2014|ReportField=Organization~|ReportField=ProjectName~Ball_dropper.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Ball_dropper.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Public\Documents\Altium\AltiumDesigns\Ball_dropper\Ball_dropper.PrjPcb
+CAP 100nF 10V 0603(1608)|CAP 100nF 10V -20% to +80% 0603 (1608 Metric) Thickness 1mm SMD|C1, C12, C13, C14, C15, C16, C17, C34|CAPC0603(1608)100_N|CMP-1035-02582-1|8
+TantalumCap7343|100uF, 47uF, 47uF, 47uF, 47uF, 47uF, 47uF|C2, C5, C20, C24, C28, C32, C35|TantalumCap7343|TantalumCap7343|7
+CAP 10uF 10V 0603(1608)|CAP 10uF 10V ±20% 0603 (1608 Metric) Thickness 1mm SMD|C3|CAPC0603(1608)100_M|CMP-1035-02800-1|1
+CAP 470nF 16V 0603(1608)|CAP 470nF 16V ±20% 0603 (1608 Metric) Thickness 1mm SMD|C4|CAPC0603(1608)100_N|CMP-1035-02701-1|1
+CAP 470pF 16V 0603(1608)|CAP 470pF 16V ±2% 0603 (1608 Metric) Thickness 1mm SMD|C6|CAPC0603(1608)100_N|CMP-1035-01664-1|1
+CAP 470nF 10V 0603(1608)|CAP 470nF 10V ±10% 0603 (1608 Metric) Thickness 1mm SMD|C7|CAPC0603(1608)100_N|CMP-1035-02696-1|1
+CAP 33uF 10V 1206(3216)|CAP 33uF 10V ±20% 1206 (3216 Metric) Thickness 1.9mm SMD|C8|CAPC1206(3216)190_M|CMP-1037-04997-1|1
+CAP 10nF 10V 0603(1608)|CAP 10nF 10V ±2% 0603 (1608 Metric) Thickness 1mm SMD|C9|CAPC0603(1608)100_M|CMP-1035-02304-1|1
+CAP 22pF 10V 0603(1608)|CAP 22pF 10V ±0.25pF 0603 (1608 Metric) Thickness 1mm SMD|C10, C11|CAPC0603(1608)100_M|CMP-1035-00797-1|2
+CAP 1uF 25V 1206(3216)|CAP 1uF 25V ±5% 1206 (3216 Metric) Thickness 1.3mm SMD|C18, C22, C26, C30|CAPC1206(3216)130_M|CMP-1037-04697-1|4
+CAP 33nF 25V 1206(3216)|CAP 33nF 25V ±20% 1206 (3216 Metric) Thickness 1mm SMD, CAP 33nF 25V ±1% 1206 (3216 Metric) Thickness 1mm SMD|C21, C29|CAPC1206(3216)100_N|CMP-1037-03874-1, CMP-1037-03869-1|2
+CAP 33nF 25V 1206(3216)|CAP 33nF 25V ±1% 1206 (3216 Metric) Thickness 1mm SMD|C25, C33|CAPC1206(3216)100_L|CMP-1037-03869-1|2
+1N4148WT|High Conductance Fast Switching Diode, 75 V, -55 to 150 degC, 2-Pin SOD523F, RoHS|D1|DIODE_SMC|CMP-0881-00001-1|1
+BAT60A|Silicon Schottky Diode, -55 to 85 degC, SOD323, Reel, Green|D2|DIODE_SMC|CMP-1183-00008-1|1
+LED0|Typical INFRARED GaAs LED|D3, D4, D5, D6, D7|CAPC0603(1608)55_N|LED0|5
+Inductor|Inductor|L1|TYS6045|Inductor|1
+NIMBUS Logo||Logo1|NIMBUS Logo|NIMBUS Logo|1
+Header 6|Header, 6-Pin|P1, P2, P3, P4|DF3A-6P-2DS|Header 6|4
+ISP|Header, 3-Pin, Dual row|P5|HDR2X3|Header 3X2|1
+Header 3|Header, 3-Pin|P6, P7, P8|HDR1X3|Header 3|3
+Header 2|Header, 2-Pin|P9, P10, P11|DF3A-2P-2DS|Header 2|3
+10K 5% 0603(1608)|10K 0.1W 5% 0603 (1608 Metric)  SMD|R1|RESC0603(1608)_N|CMP-1012-00098-1|1
+16K2 1% 0603(1608)|16K2 0.1W 1% 0603 (1608 Metric)  SMD|R2|RESC0603(1608)_N|CMP-1012-00645-1|1
+100K 5% 0603(1608)|100K 0.1W 5% 0603 (1608 Metric)  SMD|R3|RESC0603(1608)_N|CMP-1012-00122-1|1
+536K 1% 0603(1608)|536K 0.1W 1% 0603 (1608 Metric)  SMD|R4|RESC0603(1608)_M|CMP-1012-00819-1|1
+40K2 1% 0603(1608)|40K2 0.1W 1% 0603 (1608 Metric)  SMD|R5|RESC0603(1608)_M|CMP-1012-00691-1|1
+100R 5% 0603(1608)|100R 0.1W 5% 0603 (1608 Metric)  SMD|R6, R7, R8, R9|RESC0603(1608)_N|CMP-1012-00050-1|4
+330R 5% 0603(1608)|330R 0.1W 5% 0603 (1608 Metric)  SMD|R20, R21, R22, R23|RESC0603(1608)_N|CMP-1012-00062-1|4
+330R 5% 0603(1608)|330R 0.1W 5% 0603 (1608 Metric)  SMD|R24|RESC0603(1608)_L|CMP-1012-00062-1|1
+TactileSwitch|CKN9087CT-ND|S1|TactileSwitch|TactileSwitch|1
+XBEE/XBEE Pro|XBEE/XBEE Pro|U1|XBEE PRO|Xbee Pro|1
+LT3480EMSE#TRPBF|2 A, 2.4 MHz Step-Down Switching Regulator with 70 uA Quiescent Current, 10-pin SOP (MSE-10-EDP), -40 to 85 degC, Pb-Free, Tape and Reel|U2|LT-MSE-10-EDP_L|CMP-0491-01005-1|1
+LM3480|LM3480IM3-3.3/NOPBCT-ND|U3|LM3480|LM3480|1
+Atmega2560-AU|ATMEGA2560-16AURCT-ND|U4|100T1_L|Atmega2560-AU|1
+33887 H-Bridge|MC33887APVWR2CT-ND|U5, U7, U9, U11|MC33887|33887 H Bridge|4
+NC7WZ14|NC7WZ14P6XCT-ND|U6, U8, U10, U12|NC7WZ14|NC7WZ14|4
+FQ5032B-20|Crystal Oscillator, SMD, 20MHz, Stab=30ppm 20.0pF|Y1|FOX-FQ5032B_V|CMP-0399-00002-1|1
