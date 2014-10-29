@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Ball_dropper.PrjPcb]
+   Generated File[Ball_Dropper.GTL]
+   Generated File[Ball_Dropper.GBL]
+   Generated File[Ball_Dropper.GTO]
+   Generated File[Ball_Dropper.GTP]
+   Generated File[Ball_Dropper.GTS]
+   Generated File[Ball_Dropper.GBS]
+   Generated File[Ball_Dropper.GBP]
+   Generated File[Ball_Dropper.GBO]
+   Generated File[Ball_Dropper.GKO]
+   Generated File[Ball_Dropper.RUL]
+   Generated File[Ball_Dropper.EXTREP]
+   Generated File[Ball_Dropper.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 10:28:12 PM On 10/28/2014
