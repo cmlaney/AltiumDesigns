@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=BUTTON_OUT1 Pin=U1-2
+Removed Pin From Net: NetName=BUTTON_OUT2 Pin=U1-9
+Change Component Comment : Designator=C1 Old Comment=0.1uF New Comment=CAP 100nF 10V 0603(1608)
+Change Component Comment : Designator=C2 Old Comment=0.1uF New Comment=CAP 100nF 10V 0603(1608)
+Change Component Comment : Designator=C3 Old Comment=0.1uF New Comment=CAP 100nF 10V 0603(1608)
+Change Component Comment : Designator=R1 Old Comment=1.8M New Comment=1M8 5% 0603(1608)
+Change Component Comment : Designator=C7 Old Comment=10nF New Comment=CAP 10nF 10V 0603(1608)
+Change Component Comment : Designator=C5 Old Comment=10uF New Comment=CAP 10uF 10V 0603(1608)
+Change Component Comment : Designator=C6 Old Comment=10uF New Comment=CAP 10uF 10V 0603(1608)
+Change Component Comment : Designator=R2 Old Comment=180K New Comment=180K 5% 0603(1608)
+Added Pin To Net: NetName=BUTTON_OUT1 Pin=U1-1
+Added Pin To Net: NetName=BUTTON_OUT2 Pin=U1-2
