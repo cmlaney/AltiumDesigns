@@ -1,0 +1,43 @@
+Added Component: Designator=S1(2lead_low_profile_switch)
+Added Component: Designator=U1(atmega44/88/168)
+Added Component: Designator=U2(TLV61220_BOOST)
+Added Component: Designator=U4(RFM69)
+Added Pin To Net: NetName=RESET Pin=S1-1
+Added Pin To Net: NetName=NetC7_1 Pin=S1-2
+Added Pin To Net: NetName=BUTTON_OUT1 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=3.7V Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=3.7V Pin=U1-6
+Added Pin To Net: NetName=BUTTON_OUT2 Pin=U1-9
+Added Pin To Net: NetName=SERVO1 Pin=U1-10
+Added Pin To Net: NetName=SERVO2 Pin=U1-11
+Added Pin To Net: NetName=SERVO3 Pin=U1-12
+Added Pin To Net: NetName=SS Pin=U1-14
+Added Pin To Net: NetName=MOSI Pin=U1-15
+Added Pin To Net: NetName=MISO Pin=U1-16
+Added Pin To Net: NetName=SCK Pin=U1-17
+Added Pin To Net: NetName=3.7V Pin=U1-18
+Added Pin To Net: NetName=3.7V Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=RESET Pin=U1-29
+Added Pin To Net: NetName=RFM_INTERRUPT Pin=U1-32
+Added Pin To Net: NetName=NetL1_2 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=3.7V Pin=U2-3
+Added Pin To Net: NetName=NetR1_1 Pin=U2-4
+Added Pin To Net: NetName=5.5V Pin=U2-5
+Added Pin To Net: NetName=3.7V Pin=U2-6
+Added Pin To Net: NetName=RFM_INTERRUPT Pin=U4-2
+Added Pin To Net: NetName=3.7V Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=SCK Pin=U4-12
+Added Pin To Net: NetName=MISO Pin=U4-13
+Added Pin To Net: NetName=MOSI Pin=U4-14
+Added Pin To Net: NetName=SS Pin=U4-15
+Added Member To Class: ClassName=lightswitch_controller Member=Component S1 2lead_low_profile_switch
+Added Member To Class: ClassName=lightswitch_controller Member=Component U1 atmega88
+Added Member To Class: ClassName=lightswitch_controller Member=Component U2 tlv61220_boost
+Added Member To Class: ClassName=lightswitch_controller Member=Component U4 RFM69
+Added Room: Name=lightswitch_controller
