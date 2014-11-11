@@ -323,7 +323,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XCTBRQNT
+DocumentUniqueId=FGAUXGLI
 
 [Document18]
 DocumentPath=Radio.PcbLib
@@ -442,7 +442,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=MHCSDAWY
+DocumentUniqueId=IWEPXGYI
 
 [Document25]
 DocumentPath=switch.PcbLib
