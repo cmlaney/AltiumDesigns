@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=C7 Old Footprint=CAPC0603(1608)100_M New Footprint=CAPC0603(1608)100_L
+Change Component Footprint: Designator=C1 Old Footprint=CAPC0603(1608)100_N New Footprint=CAPC0603(1608)100_L
+Change Component Footprint: Designator=C2 Old Footprint=CAPC0603(1608)100_N New Footprint=CAPC0603(1608)100_L
+Change Component Footprint: Designator=C3 Old Footprint=CAPC0603(1608)100_N New Footprint=CAPC0603(1608)100_L
+Change Component Footprint: Designator=C4 Old Footprint=CAPC0603(1608)100_N New Footprint=CAPC0603(1608)100_L
+Change Component Footprint: Designator=C5 Old Footprint=CAPC0603(1608)100_N New Footprint=CAPC0603(1608)100_L
+Change Component Footprint: Designator=C6 Old Footprint=CAPC0603(1608)100_N New Footprint=CAPC0603(1608)100_L
+Change Component Comment: Designator=R1 Old Comment=1M8 5% 0603(1608) New Comment=1.8M
+Change Component Comment: Designator=R2 Old Comment=180K 5% 0603(1608) New Comment=180K
+Change Component Comment: Designator=C7 Old Comment=CAP 10nF 10V 0603(1608) New Comment=10nF
+Change Component Comment: Designator=C5 Old Comment=CAP 10uF 10V 0603(1608) New Comment=10uF
+Change Component Comment: Designator=C6 Old Comment=CAP 10uF 10V 0603(1608) New Comment=10uF
+Change Component Comment: Designator=C1 Old Comment=CAP 100nF 10V 0603(1608) New Comment=0.1uF
+Change Component Comment: Designator=C2 Old Comment=CAP 100nF 10V 0603(1608) New Comment=0.1uF
+Change Component Comment: Designator=C3 Old Comment=CAP 100nF 10V 0603(1608) New Comment=0.1uF

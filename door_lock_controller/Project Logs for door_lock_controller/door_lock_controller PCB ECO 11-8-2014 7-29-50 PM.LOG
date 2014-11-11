@@ -1,0 +1,68 @@
+Added Component: Designator=C1(CAPC0603(1608)100_N)
+Added Component: Designator=C2(CAPC0603(1608)100_N)
+Added Component: Designator=C3(CAPC0603(1608)100_N)
+Added Component: Designator=C4(CAPC0603(1608)100_N)
+Added Component: Designator=C5(CAPC0603(1608)100_N)
+Added Component: Designator=C6(CAPC0603(1608)100_N)
+Added Component: Designator=C7(CAPC0603(1608)100_M)
+Added Component: Designator=L1(TYS6045)
+Added Component: Designator=P1(DF3A-2P-2DS)
+Added Component: Designator=P2(HDR1X3)
+Added Component: Designator=P3(HDR2X2)
+Added Component: Designator=P4(HDR2X3)
+Added Component: Designator=P5(HDR1X2)
+Added Component: Designator=P6(HDR1X2)
+Added Component: Designator=R1(RESC0603(1608)_L)
+Added Component: Designator=R2(RESC0603(1608)_L)
+Added Component: Designator=U3(NC7WZ14)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3.7V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3.7V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=3.7V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=3.7V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=3.7V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=5.5V Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=RESET Pin=C7-2
+Added Pin To Net: NetName=3.7V Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=3.7V Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=5.5V Pin=P2-2
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Pin To Net: NetName=3.7V Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-6
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=5.5V Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=3.7V Pin=U3-5
+Added Member To Class: ClassName=door_lock_controller Member=Component C1 CAP 100nF 10V 0603(1608)
+Added Member To Class: ClassName=door_lock_controller Member=Component C2 CAP 100nF 10V 0603(1608)
+Added Member To Class: ClassName=door_lock_controller Member=Component C3 CAP 100nF 10V 0603(1608)
+Added Member To Class: ClassName=door_lock_controller Member=Component C4 CAP 100nF 10V 0603(1608)
+Added Member To Class: ClassName=door_lock_controller Member=Component C5 CAP 10uF 10V 0603(1608)
+Added Member To Class: ClassName=door_lock_controller Member=Component C6 CAP 10uF 10V 0603(1608)
+Added Member To Class: ClassName=door_lock_controller Member=Component C7 CAP 10nF 10V 0603(1608)
+Added Member To Class: ClassName=door_lock_controller Member=Component L1 TYS6045_inductor
+Added Member To Class: ClassName=door_lock_controller Member=Component P1 Hirose2
+Added Member To Class: ClassName=door_lock_controller Member=Component P2 Header 3
+Added Member To Class: ClassName=door_lock_controller Member=Component P3 Header 2X2
+Added Member To Class: ClassName=door_lock_controller Member=Component P4 Header 3X2
+Added Member To Class: ClassName=door_lock_controller Member=Component P5 Header 2
+Added Member To Class: ClassName=door_lock_controller Member=Component P6 Header 2
+Added Member To Class: ClassName=door_lock_controller Member=Component R1 1M8 5% 0603(1608)
+Added Member To Class: ClassName=door_lock_controller Member=Component R2 180K 5% 0603(1608)
+Added Member To Class: ClassName=door_lock_controller Member=Component U3 NC7WZ14
+Added Room: Name=door_lock_controller
