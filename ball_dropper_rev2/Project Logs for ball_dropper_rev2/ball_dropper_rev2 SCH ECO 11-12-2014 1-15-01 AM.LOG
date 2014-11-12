@@ -1,0 +1,22 @@
+Change Component Comment: Designator=R8 Old Comment=100R 5% 0603(1608) New Comment=100R
+Change Component Comment: Designator=R9 Old Comment=100R 5% 0603(1608) New Comment=100R
+Change Component Comment: Designator=U9 Old Comment=33887 H-Bridge New Comment=MC33887
+Change Component Comment: Designator=U11 Old Comment=33887 H-Bridge New Comment=MC33887
+Change Component Comment: Designator=C26 Old Comment=CAP 1uF 25V 1206(3216) New Comment=1uF
+Change Component Comment: Designator=C30 Old Comment=CAP 1uF 25V 1206(3216) New Comment=1uF
+Change Component Comment: Designator=C39 Old Comment=CAP 8.2pF 10V 0603(1608) New Comment=8.2pF
+Change Component Comment: Designator=C40 Old Comment=CAP 8.2pF 10V 0603(1608) New Comment=8.2pF
+Change Component Comment: Designator=C41 Old Comment=CAP 8.2pF 10V 0603(1608) New Comment=8.2pF
+Change Component Comment: Designator=C42 Old Comment=CAP 8.2pF 10V 0603(1608) New Comment=8.2pF
+Change Component Comment: Designator=C10 Old Comment=CAP 22pF 10V 0603(1608) New Comment=22pF
+Change Component Comment: Designator=C11 Old Comment=CAP 22pF 10V 0603(1608) New Comment=22pF
+Change Component Comment: Designator=C29 Old Comment=CAP 33nF 25V 1206(3216) New Comment=33nF
+Change Component Comment: Designator=C33 Old Comment=CAP 33nF 25V 1206(3216) New Comment=33nF
+Change Component Comment: Designator=C12 Old Comment=CAP 100nF 10V 0603(1608) New Comment=100nF
+Change Component Comment: Designator=P3 Old Comment=Header 6 New Comment=M3
+Change Component Comment: Designator=P4 Old Comment=Header 6 New Comment=M4
+Change Component Comment: Designator=P7 Old Comment=Hirose3 New Comment=SWITCH1
+Change Component Comment: Designator=P6 Old Comment=Hirose3 New Comment=SWITCH2
+Change Component Comment: Designator=X1 Old Comment=xtal4 New Comment=20MHz
+Change Component Comment: Designator=X4 Old Comment=xtal4 New Comment=40MHz
+Change Component Comment: Designator=X5 Old Comment=xtal4 New Comment=40MHz

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=3.3V Pin=U2-1
+Removed Pin From Net: NetName=RX0 Pin=U2-2
+Removed Pin From Net: NetName=NetD1_1 Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-10
+Removed Member From Class: ClassName=ball_dropper_rev2 Member=U2
+Change Component Comment : Designator=C8 Old Comment=33uF New Comment=CAP 33uF 10V 1206(3216)
+Change Component Comment : Designator=C7 Old Comment=470nF New Comment=CAP 470nF 10V 0603(1608)
+Added Component: Designator=U*(XBEE PRO)
+Added Pin To Net: NetName=3.3V Pin=U*-1
+Added Pin To Net: NetName=RX0 Pin=U*-2
+Added Pin To Net: NetName=NetD1_1 Pin=U*-3
+Added Pin To Net: NetName=GND Pin=U*-10
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component U* XBEE/XBEE Pro

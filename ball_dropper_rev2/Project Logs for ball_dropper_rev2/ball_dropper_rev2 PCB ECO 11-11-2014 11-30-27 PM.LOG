@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetD3_1 Pin=R20-2
+Removed Pin From Net: NetName=NetD4_1 Pin=R21-2
+Removed Pin From Net: NetName=NetD5_1 Pin=R22-2
+Removed Pin From Net: NetName=NetD6_1 Pin=R23-2
+Removed Pin From Net: NetName=NetD7_1 Pin=R24-2
+Added Component: Designator=D3(3.2X1.6X1.1)
+Added Component: Designator=D4(3.2X1.6X1.1)
+Added Component: Designator=D5(3.2X1.6X1.1)
+Added Component: Designator=D6(3.2X1.6X1.1)
+Added Component: Designator=D7(3.2X1.6X1.1)
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=NetD4_1 Pin=R20-2
+Added Pin To Net: NetName=NetD5_1 Pin=R21-2
+Added Pin To Net: NetName=NetD6_1 Pin=R22-2
+Added Pin To Net: NetName=NetD7_1 Pin=R23-2
+Added Pin To Net: NetName=NetD3_1 Pin=R24-2
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component D3 LED2
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component D4 LED2
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component D5 LED2
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component D6 LED2
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component D7 LED2

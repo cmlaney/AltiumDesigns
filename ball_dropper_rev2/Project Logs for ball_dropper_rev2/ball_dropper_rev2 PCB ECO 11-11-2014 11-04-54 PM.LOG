@@ -1,0 +1,183 @@
+Added Component: Designator=C18(CAPC1206(3216)130_M)
+Added Component: Designator=C20(TantalumCap7343)
+Added Component: Designator=C21(CAPC1206(3216)100_N)
+Added Component: Designator=C35(CAPC0603(1608)100_L)
+Added Component: Designator=C36(CAPC0603(1608)100_L)
+Added Component: Designator=R6(RESC0603(1608)_N)
+Added Component: Designator=X2(xtal4)
+Added Pin To Net: NetName=3.3V Pin=U2-1
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=U1-10
+Added Pin To Net: NetName=5V Pin=U1-31
+Added Pin To Net: NetName=5V Pin=U1-61
+Added Pin To Net: NetName=5V Pin=U1-80
+Added Pin To Net: NetName=5V Pin=U1-98
+Added Pin To Net: NetName=5V Pin=U1-100
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-62
+Added Pin To Net: NetName=GND Pin=U1-81
+Added Pin To Net: NetName=GND Pin=U1-99
+Added Pin To Net: NetName=GND Pin=U2-10
+Added Net: Name=GND
+Added Pin To Net: NetName=INT0 Pin=U1-43
+Added Net: Name=INT0
+Added Pin To Net: NetName=INT1 Pin=U1-44
+Added Net: Name=INT1
+Added Pin To Net: NetName=INT2 Pin=U1-45
+Added Net: Name=INT2
+Added Pin To Net: NetName=INT3 Pin=U1-46
+Added Net: Name=INT3
+Added Pin To Net: NetName=INT4 Pin=U1-8
+Added Net: Name=INT4
+Added Pin To Net: NetName=INT5 Pin=U1-9
+Added Net: Name=INT5
+Added Pin To Net: NetName=INT6 Pin=U1-7
+Added Net: Name=INT6
+Added Pin To Net: NetName=INT7 Pin=U1-6
+Added Net: Name=INT7
+Added Pin To Net: NetName=MISO Pin=U1-22
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=U1-21
+Added Net: Name=MOSI
+Added Pin To Net: NetName=MOT1_A Pin=U1-23
+Added Net: Name=MOT1_A
+Added Pin To Net: NetName=MOT1_B Pin=U1-24
+Added Net: Name=MOT1_B
+Added Net: Name=MOT1_ENCA
+Added Net: Name=MOT1_ENCB
+Added Pin To Net: NetName=MOT1_EN Pin=U1-53
+Added Net: Name=MOT1_EN
+Added Pin To Net: NetName=MOT1_FB Pin=C18-2
+Added Pin To Net: NetName=MOT1_FB Pin=R6-2
+Added Pin To Net: NetName=MOT1_FB Pin=U1-96
+Added Net: Name=MOT1_FB
+Added Pin To Net: NetName=MOT1_FS Pin=U1-52
+Added Net: Name=MOT1_FS
+Added Net: Name=MOT1_OUT1
+Added Net: Name=MOT1_OUT2
+Added Net: Name=MOT1_SS
+Added Pin To Net: NetName=MOT1_TRI_EN Pin=U1-55
+Added Net: Name=MOT1_TRI_EN
+Added Pin To Net: NetName=MOT2_A Pin=U1-25
+Added Net: Name=MOT2_A
+Added Pin To Net: NetName=MOT2_B Pin=U1-26
+Added Net: Name=MOT2_B
+Added Net: Name=MOT2_ENCA
+Added Net: Name=MOT2_ENCB
+Added Pin To Net: NetName=MOT2_EN Pin=U1-58
+Added Net: Name=MOT2_EN
+Added Pin To Net: NetName=MOT2_FB Pin=U1-95
+Added Net: Name=MOT2_FB
+Added Pin To Net: NetName=MOT2_FS Pin=U1-57
+Added Net: Name=MOT2_FS
+Added Net: Name=MOT2_OUT1
+Added Net: Name=MOT2_OUT2
+Added Net: Name=MOT2_SS
+Added Pin To Net: NetName=MOT2_TRI_EN Pin=U1-60
+Added Net: Name=MOT2_TRI_EN
+Added Pin To Net: NetName=MOT3_A Pin=U1-39
+Added Net: Name=MOT3_A
+Added Pin To Net: NetName=MOT3_B Pin=U1-38
+Added Net: Name=MOT3_B
+Added Net: Name=MOT3_ENCA
+Added Net: Name=MOT3_ENCB
+Added Pin To Net: NetName=MOT3_EN Pin=U1-70
+Added Net: Name=MOT3_EN
+Added Pin To Net: NetName=MOT3_FB Pin=U1-94
+Added Net: Name=MOT3_FB
+Added Pin To Net: NetName=MOT3_FS Pin=U1-64
+Added Net: Name=MOT3_FS
+Added Net: Name=MOT3_OUT1
+Added Net: Name=MOT3_OUT2
+Added Net: Name=MOT3_SS
+Added Pin To Net: NetName=MOT3_TRI_EN Pin=U1-72
+Added Net: Name=MOT3_TRI_EN
+Added Pin To Net: NetName=MOT4_A Pin=U1-18
+Added Net: Name=MOT4_A
+Added Pin To Net: NetName=MOT4_B Pin=U1-40
+Added Net: Name=MOT4_B
+Added Net: Name=MOT4_ENCA
+Added Net: Name=MOT4_ENCB
+Added Pin To Net: NetName=MOT4_EN Pin=U1-75
+Added Net: Name=MOT4_EN
+Added Pin To Net: NetName=MOT4_FB Pin=U1-97
+Added Net: Name=MOT4_FB
+Added Pin To Net: NetName=MOT4_FS Pin=U1-74
+Added Net: Name=MOT4_FS
+Added Net: Name=MOT4_OUT1
+Added Net: Name=MOT4_OUT2
+Added Net: Name=MOT4_SS
+Added Pin To Net: NetName=MOT4_TRI_EN Pin=U1-77
+Added Net: Name=MOT4_TRI_EN
+Added Net: Name=NetC4_1
+Added Net: Name=NetC4_2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC9_2 Pin=U1-30
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_2 Pin=U1-33
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_2 Pin=U1-34
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Net: Name=NetC21_2
+Added Net: Name=NetC25_2
+Added Net: Name=NetC29_2
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=X2-1
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Pin To Net: NetName=NetC36_1 Pin=X2-2
+Added Net: Name=NetC36_1
+Added Net: Name=NetC37_1
+Added Net: Name=NetC38_1
+Added Net: Name=NetC39_1
+Added Net: Name=NetC40_1
+Added Net: Name=NetC41_1
+Added Net: Name=NetC42_1
+Added Pin To Net: NetName=NetD1_1 Pin=U2-3
+Added Net: Name=NetD1_1
+Added Net: Name=NetD3_1
+Added Net: Name=NetD4_1
+Added Net: Name=NetD5_1
+Added Net: Name=NetD6_1
+Added Net: Name=NetD7_1
+Added Net: Name=NetR2_2
+Added Net: Name=NetR3_2
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR20_1 Pin=U1-93
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetR21_1 Pin=U1-92
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR22_1 Pin=U1-91
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR23_1 Pin=U1-90
+Added Net: Name=NetR23_1
+Added Net: Name=NetU5_4
+Added Pin To Net: NetName=PWM1 Pin=U1-15
+Added Net: Name=PWM1
+Added Pin To Net: NetName=PWM2 Pin=U1-16
+Added Net: Name=PWM2
+Added Pin To Net: NetName=PWM3 Pin=U1-17
+Added Net: Name=PWM3
+Added Net: Name=RESET
+Added Pin To Net: NetName=RX0 Pin=U1-2
+Added Pin To Net: NetName=RX0 Pin=U2-2
+Added Net: Name=RX0
+Added Pin To Net: NetName=SCK Pin=U1-20
+Added Net: Name=SCK
+Added Net: Name=SW1
+Added Net: Name=SW2
+Added Pin To Net: NetName=TX0 Pin=U1-3
+Added Net: Name=TX0
+Added Pin To Net: NetName=VBATT Pin=C20-1
+Added Net: Name=VBATT
+Added Class: Name=ball_dropper_rev2

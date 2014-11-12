@@ -1,0 +1,25 @@
+Added Component: Designator=U5(MC33887)
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=MOT1_FS Pin=U5-2
+Added Pin To Net: NetName=MOT1_A Pin=U5-3
+Added Pin To Net: NetName=NetU5_4 Pin=U5-4
+Added Pin To Net: NetName=NetU5_4 Pin=U5-5
+Added Pin To Net: NetName=MOT1_OUT2 Pin=U5-6
+Added Pin To Net: NetName=MOT1_OUT2 Pin=U5-7
+Added Pin To Net: NetName=MOT1_FB Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-9
+Added Pin To Net: NetName=GND Pin=U5-10
+Added Pin To Net: NetName=GND Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U5-12
+Added Pin To Net: NetName=MOT1_TRI_EN Pin=U5-13
+Added Pin To Net: NetName=MOT1_OUT1 Pin=U5-14
+Added Pin To Net: NetName=MOT1_OUT1 Pin=U5-15
+Added Pin To Net: NetName=VBATT Pin=U5-16
+Added Pin To Net: NetName=NetC21_2 Pin=U5-17
+Added Pin To Net: NetName=GND Pin=U5-18
+Added Pin To Net: NetName=MOT1_B Pin=U5-19
+Added Pin To Net: NetName=MOT1_EN Pin=U5-20
+Added Pin To Net: NetName=GND Pin=U5-21
+Added Pin To Net: NetName=GND Pin=U5-21
+Added Pin To Net: NetName=GND Pin=U5-21
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component U5 33887 H-Bridge

@@ -1,0 +1,5 @@
+Change Component Comment: Designator=C8 Old Comment=CAP 33uF 10V 1206(3216) New Comment=33uF
+Change Component Comment: Designator=C7 Old Comment=CAP 470nF 10V 0603(1608) New Comment=C470nF
+Change Component Comment: Designator=P9 Old Comment=Header 2 New Comment=12V
+Change Component Comment: Designator=P10 Old Comment=Header 2 New Comment=12V
+Change Component Comment: Designator=C20 Old Comment=TantalumCap7343 New Comment=47uF

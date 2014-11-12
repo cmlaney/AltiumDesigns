@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VBATT Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=VBATT Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Member From Class: ClassName=ball_dropper_rev2 Member=C24
+Removed Member From Class: ClassName=ball_dropper_rev2 Member=C28

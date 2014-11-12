@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [lightswitch_controller.PrjPcb]
+   Generated File[lightswitch_controller.TXT]
+   Generated File[lightswitch_controller.LDP]
+   Generated File[lightswitch_controller.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:32:07 PM On 11/11/2014
