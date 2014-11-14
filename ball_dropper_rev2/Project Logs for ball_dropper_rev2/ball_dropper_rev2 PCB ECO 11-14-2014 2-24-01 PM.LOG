@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=C21 Old DesignItemId=CMP-1037-03874-1 New DesignItemId=CMP-1035-02463-1
+Change Component DesignItemId : Designator=C18 Old DesignItemId=CMP-1037-04697-1 New DesignItemId=CMP-1035-02740-1
+Change Component Footprint: Designator=C18 Old Footprint=1608[0603] New Footprint=CAPC0603(1608)100_N
+Change Component Footprint: Designator=C21 Old Footprint=CAPC1206(3216)100_N New Footprint=CAPC0603(1608)100_N
+Change Component Comment : Designator=C18 Old Comment=1uF New Comment=CAP 1uF 25V 0603(1608)
+Change Component Comment : Designator=C21 Old Comment=33nF New Comment=CAP 33nF 25V 0603(1608)

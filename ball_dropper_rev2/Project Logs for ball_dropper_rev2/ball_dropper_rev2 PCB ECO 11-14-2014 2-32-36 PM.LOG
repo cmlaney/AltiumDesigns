@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=C25 Old DesignItemId=CMP-1037-03869-1 New DesignItemId=CMP-1035-02463-1
+Change Component DesignItemId : Designator=C29 Old DesignItemId=CMP-1037-03869-1 New DesignItemId=CMP-1035-02463-1
+Change Component DesignItemId : Designator=C33 Old DesignItemId=CMP-1037-03869-1 New DesignItemId=CMP-1035-02463-1
+Change Component DesignItemId : Designator=C22 Old DesignItemId=CMP-1037-04697-1 New DesignItemId=CMP-1035-02740-1
+Change Component DesignItemId : Designator=C26 Old DesignItemId=CMP-1037-04697-1 New DesignItemId=CMP-1035-02740-1
+Change Component DesignItemId : Designator=C30 Old DesignItemId=CMP-1037-04697-1 New DesignItemId=CMP-1035-02740-1
+Change Component Footprint: Designator=C25 Old Footprint=CAPC1206(3216)100_L New Footprint=CAPC0603(1608)100_N
+Change Component Footprint: Designator=C33 Old Footprint=CAPC1206(3216)100_L New Footprint=CAPC0603(1608)100_N
+Change Component Footprint: Designator=C29 Old Footprint=CAPC1206(3216)100_N New Footprint=CAPC0603(1608)100_N
+Change Component Footprint: Designator=C22 Old Footprint=CAPC1206(3216)130_M New Footprint=CAPC0603(1608)100_N
+Change Component Footprint: Designator=C26 Old Footprint=CAPC1206(3216)130_M New Footprint=CAPC0603(1608)100_N
+Change Component Footprint: Designator=C30 Old Footprint=CAPC1206(3216)130_M New Footprint=CAPC0603(1608)100_N
