@@ -188,3 +188,38 @@ Generating : Keep-Out Layer
 Used DCodes :
 *************************************************************
 
+*************************************************************
+Generating : Mechanical 1
+      File : lightswitch_controller.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : lightswitch_controller.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : lightswitch_controller.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D56
+    D57
+    D58
+*************************************************************
+

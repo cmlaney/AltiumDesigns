@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: lightswitch_controller.GBR   11/11/2014  9:30:37 PM
+Gerber File Extension Report For: lightswitch_controller.GBR   11/15/2014  11:58:16 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -15,4 +15,7 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
 ------------------------------------------------------------------------------------------

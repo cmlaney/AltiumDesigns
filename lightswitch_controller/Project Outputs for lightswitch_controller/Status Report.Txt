@@ -1,12 +1,24 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [lightswitch_controller.PrjPcb]
-   Generated File[lightswitch_controller.TXT]
-   Generated File[lightswitch_controller.LDP]
-   Generated File[lightswitch_controller.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [lightswitch_controller.PrjPcb]
+   Generated File[lightswitch_controller.GTL]
+   Generated File[lightswitch_controller.GBL]
+   Generated File[lightswitch_controller.GTO]
+   Generated File[lightswitch_controller.GTP]
+   Generated File[lightswitch_controller.GTS]
+   Generated File[lightswitch_controller.GBS]
+   Generated File[lightswitch_controller.GBP]
+   Generated File[lightswitch_controller.GBO]
+   Generated File[lightswitch_controller.GKO]
+   Generated File[lightswitch_controller.GM1]
+   Generated File[lightswitch_controller.GM13]
+   Generated File[lightswitch_controller.GM15]
+   Generated File[lightswitch_controller.RUL]
+   Generated File[lightswitch_controller.EXTREP]
+   Generated File[lightswitch_controller.REP]
 
 
-Files Generated   : 3
+Files Generated   : 15
 Documents Printed : 0
 
-Finished Output Generation At 9:32:07 PM On 11/11/2014
+Finished Output Generation At 11:58:17 AM On 11/15/2014
