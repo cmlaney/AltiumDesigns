@@ -1,0 +1,5 @@
+Added Component: Designator=X3(xtal4)
+Added Pin To Net: NetName=NetC37_1 Pin=X3-1
+Added Pin To Net: NetName=NetC38_1 Pin=X3-2
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component X2 40MHz
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component X3 40MHz

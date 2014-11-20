@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=X4 Old DesignItemId= New DesignItemId=xtal4
+Change Component Library : Designator=X4 Old Library= New Library=Integrated_Library.IntLib
+Added Pin To Net: NetName=NetC39_1 Pin=X4-1
+Added Pin To Net: NetName=NetC40_1 Pin=X4-2
