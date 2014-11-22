@@ -1,0 +1,5 @@
+Added Component: Designator=R26(RESC0603(1608)_L)
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=U2-17
+Added Net: Name=NetR26_1
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component R26 Jumper 0603(1608)

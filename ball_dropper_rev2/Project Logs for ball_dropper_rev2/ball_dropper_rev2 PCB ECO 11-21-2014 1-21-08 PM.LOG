@@ -1,0 +1,7 @@
+Added Component: Designator=P8(HDR1X3)
+Added Pin To Net: NetName=5V Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P8-3
+Added Pin To Net: NetName=PWM1 Pin=P8-1
+Added Pin To Net: NetName=PWM1 Pin=U1-40
+Added Net: Name=PWM1
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component P8 Header 3

@@ -1,0 +1,99 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Added Component: Designator=C1(CAPC0603(1608)100_N)
+Added Component: Designator=C2(CAPC0603(1608)100_L)
+Added Component: Designator=C3(CAPC0603(1608)100_N)
+Added Component: Designator=C10(CAPC0603(1608)100_M)
+Added Component: Designator=C11(CAPC0603(1608)100_M)
+Added Component: Designator=D1(KING-LED0603-25-ORANGE_V)
+Added Component: Designator=D2(KING-LED0603-25-ORANGE_V)
+Added Component: Designator=P1(HDR1X3)
+Added Component: Designator=P2(HDR2X3)
+Added Component: Designator=P3(HDR1X2)
+Added Component: Designator=U1(atmega44/88/168)
+Added Component: Designator=U2(FT232RL-SOP)
+Added Component: Designator=Y1(HC49/US)
+Added Pin To Net: NetName=3.3V Pin=C3-2
+Added Pin To Net: NetName=3.3V Pin=P1-1
+Added Pin To Net: NetName=3.3V Pin=U2-17
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=5V Pin=J1-1
+Added Pin To Net: NetName=5V Pin=P1-3
+Added Pin To Net: NetName=5V Pin=U2-20
+Added Net: Name=5V
+Added Pin To Net: NetName=CTS Pin=U2-11
+Added Net: Name=CTS
+Added Pin To Net: NetName=DTR Pin=U1-29
+Added Pin To Net: NetName=DTR Pin=U2-2
+Added Net: Name=DTR
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-21
+Added Pin To Net: NetName=GND Pin=U2-25
+Added Pin To Net: NetName=GND Pin=U2-26
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=P2-1
+Added Pin To Net: NetName=MISO Pin=U1-16
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=P2-4
+Added Pin To Net: NetName=MOSI Pin=U1-15
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=U1-7
+Added Pin To Net: NetName=NetC10_2 Pin=Y1-1
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=U1-8
+Added Pin To Net: NetName=NetC11_2 Pin=Y1-2
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=POWEROPT Pin=P2-2
+Added Pin To Net: NetName=POWEROPT Pin=P3-2
+Added Net: Name=POWEROPT
+Added Pin To Net: NetName=POWER Pin=P1-2
+Added Pin To Net: NetName=POWER Pin=P3-1
+Added Pin To Net: NetName=POWER Pin=U1-4
+Added Pin To Net: NetName=POWER Pin=U1-6
+Added Pin To Net: NetName=POWER Pin=U1-18
+Added Pin To Net: NetName=POWER Pin=U1-20
+Added Pin To Net: NetName=POWER Pin=U2-4
+Added Net: Name=POWER
+Added Pin To Net: NetName=RESET Pin=P2-5
+Added Pin To Net: NetName=RESET Pin=U1-14
+Added Net: Name=RESET
+Added Pin To Net: NetName=RXI Pin=U1-31
+Added Pin To Net: NetName=RXI Pin=U2-5
+Added Net: Name=RXI
+Added Pin To Net: NetName=RXLED Pin=D2-2
+Added Pin To Net: NetName=RXLED Pin=U2-22
+Added Net: Name=RXLED
+Added Pin To Net: NetName=SCK Pin=P2-3
+Added Pin To Net: NetName=SCK Pin=U1-17
+Added Net: Name=SCK
+Added Pin To Net: NetName=TXLED Pin=D1-2
+Added Pin To Net: NetName=TXLED Pin=U2-23
+Added Net: Name=TXLED
+Added Pin To Net: NetName=TXO Pin=U1-30
+Added Pin To Net: NetName=TXO Pin=U2-1
+Added Net: Name=TXO
+Added Pin To Net: NetName=USBDM Pin=J1-2
+Added Pin To Net: NetName=USBDM Pin=U2-16
+Added Net: Name=USBDM
+Added Pin To Net: NetName=USBDP Pin=J1-3
+Added Pin To Net: NetName=USBDP Pin=U2-15
+Added Net: Name=USBDP
+Added Class: Name=FTDI_ISP

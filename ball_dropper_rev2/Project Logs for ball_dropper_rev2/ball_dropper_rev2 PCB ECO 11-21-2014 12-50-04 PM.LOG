@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MOT4_EN Pin=U1-71
+Removed Pin From Net: NetName=MOT3_FS Pin=U1-72
+Added Pin To Net: NetName=MOT4_SS Pin=U1-64
+Added Pin To Net: NetName=MOT4_EN Pin=U1-70
+Added Pin To Net: NetName=MOT3_FS Pin=U1-71
+Added Pin To Net: NetName=MOT3_SS Pin=U1-72

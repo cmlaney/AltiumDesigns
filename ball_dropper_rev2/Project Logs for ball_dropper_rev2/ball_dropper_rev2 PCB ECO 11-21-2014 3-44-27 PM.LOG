@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VBATT Pin=C32-1
+Removed Pin From Net: NetName=VBATT Pin=U9-4
+Removed Pin From Net: NetName=VBATT Pin=U9-5
+Removed Pin From Net: NetName=VBATT Pin=U9-16
+Removed Pin From Net: NetName=VBATT Pin=U11-4
+Removed Pin From Net: NetName=VBATT Pin=U11-5
+Removed Pin From Net: NetName=VBATT Pin=U11-16
+Added Component: Designator=P12(DF3A-2P-2DS)
+Added Component: Designator=P13(HDR1X2H)
+Added Pin To Net: NetName=GND Pin=P12-2
+Added Pin To Net: NetName=VBATT Pin=P13-1
+Added Pin To Net: NetName=VBATT2 Pin=C32-1
+Added Pin To Net: NetName=VBATT2 Pin=P12-1
+Added Pin To Net: NetName=VBATT2 Pin=P13-2
+Added Pin To Net: NetName=VBATT2 Pin=U9-4
+Added Pin To Net: NetName=VBATT2 Pin=U9-5
+Added Pin To Net: NetName=VBATT2 Pin=U9-16
+Added Pin To Net: NetName=VBATT2 Pin=U11-4
+Added Pin To Net: NetName=VBATT2 Pin=U11-5
+Added Pin To Net: NetName=VBATT2 Pin=U11-16
+Added Net: Name=VBATT2
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component P12 12V
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component P13 Header 2H
