@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC39_1 Pin=C19-2
+Added Component: Designator=C46(CAPC0603(1608)100_N)
+Added Component: Designator=C47(CAPC0603(1608)100_N)
+Added Component: Designator=C48(CAPC0603(1608)100_N)
+Added Component: Designator=C49(CAPC0603(1608)100_N)
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=5V Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=5V Pin=C47-2
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=5V Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=5V Pin=C49-2
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component C46 100nF
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component C47 100nF
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component C48 100nF
+Added Member To Class: ClassName=ball_dropper_rev2 Member=Component C49 100nF
