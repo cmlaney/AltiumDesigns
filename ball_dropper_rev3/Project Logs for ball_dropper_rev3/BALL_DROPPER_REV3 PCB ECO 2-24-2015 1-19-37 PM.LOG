@@ -1,0 +1,12 @@
+Added Component: Designator=C15(CAPC0603(1608)100_N)
+Added Component: Designator=C32(TantalumCap7343)
+Added Component: Designator=UXBEE(XBEE PRO)
+Added Pin To Net: NetName=5V Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=VBATT2 Pin=C32-2
+Added Pin To Net: NetName=3.3V Pin=UXBEE-1
+Added Pin To Net: NetName=RX0 Pin=UXBEE-2
+Added Pin To Net: NetName=NetD1_1 Pin=UXBEE-3
+Added Pin To Net: NetName=GND Pin=UXBEE-10
+Added Pin To Net: NetName=NetR26_1 Pin=UXBEE-17

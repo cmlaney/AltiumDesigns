@@ -1,0 +1,5 @@
+Added Component: Designator=P21(DF3A-4P-2DS)
+Added Pin To Net: NetName=RX1 Pin=P21-1
+Added Pin To Net: NetName=TX1 Pin=P21-2
+Added Pin To Net: NetName=5V Pin=P21-3
+Added Pin To Net: NetName=GND Pin=P21-4
