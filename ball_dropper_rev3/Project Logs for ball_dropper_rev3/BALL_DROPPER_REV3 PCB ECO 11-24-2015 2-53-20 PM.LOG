@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=MOT3_FS Pin=H3-9
+Removed Pin From Net: NetName=MOT3_FS Pin=H3R4-2
+Removed Pin From Net: NetName=MOT5_FS Pin=H4-9
+Removed Pin From Net: NetName=MOT5_FS Pin=H4R4-2
+Removed Pin From Net: NetName=MOT3_FS Pin=U1-35
+Added Pin To Net: NetName=MOT4_FS Pin=H3-9
+Added Pin To Net: NetName=MOT4_FS Pin=H3R4-2
+Added Pin To Net: NetName=MOT4_FS Pin=U1-35
+Added Net: Name=MOT4_FS
+Added Pin To Net: NetName=MOT6_FS Pin=H4-9
+Added Pin To Net: NetName=MOT6_FS Pin=H4R4-2
+Added Net: Name=MOT6_FS

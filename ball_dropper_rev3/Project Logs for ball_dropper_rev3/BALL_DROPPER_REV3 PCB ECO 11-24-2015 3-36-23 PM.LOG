@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MOT4_B Pin=JMP1-1
+Removed Pin From Net: NetName=MOT3_B Pin=JMP1-2
+Removed Pin From Net: NetName=MOT4_A Pin=JMP2-1
+Removed Pin From Net: NetName=MOT3_A Pin=JMP2-2
+Removed Pin From Net: NetName=MOT6_B Pin=JMP5-1
+Removed Pin From Net: NetName=MOT5_B Pin=JMP5-2
+Removed Pin From Net: NetName=MOT6_A Pin=JMP6-1
+Removed Pin From Net: NetName=MOT5_A Pin=JMP6-2

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=MOT6_ENCB Pin=P6-4
+Change Component DesignItemId : Designator=P16 Old DesignItemId=Hirose3 New DesignItemId=Hirose6
+Change Component DesignItemId : Designator=P6 Old DesignItemId=Hirose6 New DesignItemId=Hirose3
+Change Component Footprint: Designator=P16 Old Footprint=DF3A-3P-2DS-RA New Footprint=DF3A-6P-2DS
+Change Component Footprint: Designator=P6 Old Footprint=DF3A-6P-2DS New Footprint=DF3A-3P-2DS-RA
+Change Component Comment : Designator=P15 Old Comment=ISP New Comment=M3
+Change Component Comment : Designator=P5 Old Comment=M3 New Comment=ISP
+Change Component Comment : Designator=P6 Old Comment=M4 New Comment=SW1
+Change Component Comment : Designator=P16 Old Comment=SW1 New Comment=M4
+Added Pin To Net: NetName=MOT5_OUT1 Pin=P15-1
+Added Pin To Net: NetName=MOT5_OUT2 Pin=P15-2
+Added Pin To Net: NetName=MOT5_ENCA Pin=P15-3
+Added Pin To Net: NetName=MOT5_ENCB Pin=P15-4
+Added Pin To Net: NetName=5V Pin=P15-5
+Added Pin To Net: NetName=GND Pin=P15-6
+Added Pin To Net: NetName=MOT6_OUT1 Pin=P16-1
+Added Pin To Net: NetName=MOT6_OUT2 Pin=P16-2
+Added Pin To Net: NetName=MOT6_ENCA Pin=P16-3
+Added Pin To Net: NetName=MOT6_ENCB Pin=P16-4

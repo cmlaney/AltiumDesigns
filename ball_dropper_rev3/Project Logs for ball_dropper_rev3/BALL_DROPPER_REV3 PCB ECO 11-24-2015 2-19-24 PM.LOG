@@ -1,0 +1,11 @@
+Added Component: Designator=P15(DF3A-6P-2DS)
+Added Component: Designator=P16(DF3A-3P-2DS-RA)
+Added Pin To Net: NetName=RESET Pin=P5-1
+Added Pin To Net: NetName=SCK Pin=P5-2
+Added Pin To Net: NetName=MISO Pin=P5-3
+Added Pin To Net: NetName=MOSI Pin=P5-4
+Added Pin To Net: NetName=5V Pin=P5-5
+Added Pin To Net: NetName=GND Pin=P5-6
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=SW1 Pin=P6-2
+Added Pin To Net: NetName=5V Pin=P6-3

@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=RESET Pin=P5-1
+Removed Pin From Net: NetName=SCK Pin=P5-2
+Removed Pin From Net: NetName=MISO Pin=P5-3
+Removed Pin From Net: NetName=MOSI Pin=P5-4
+Removed Pin From Net: NetName=GND Pin=P6-1
+Removed Pin From Net: NetName=SW1 Pin=P6-2
+Removed Pin From Net: NetName=5V Pin=P6-3
+Added Component: Designator=C53(CAPC0603(1608)100_N)
+Added Component: Designator=C54(CAPC0603(1608)100_N)
+Added Component: Designator=P15(DF3A-6P-2DS)
+Added Component: Designator=P16(DF3A-3P-2DS-RA)
+Added Component: Designator=R34(RESC1206(3216)_N)
+Added Component: Designator=R35(RESC1206(3216)_N)
+Added Component: Designator=R36(RESC1206(3216)_N)
+Added Component: Designator=R37(RESC1206(3216)_N)
+Added Component: Designator=R?(RESC1206(3216)_L)
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=NetC51_1 Pin=C53-2
+Added Pin To Net: NetName=GND Pin=C54-1
+Added Pin To Net: NetName=NetC52_1 Pin=C54-2
+Added Pin To Net: NetName=MOT5_OUT1 Pin=P5-1
+Added Pin To Net: NetName=MOT5_OUT2 Pin=P5-2
+Added Pin To Net: NetName=MOT5_ENCA Pin=P5-3
+Added Pin To Net: NetName=MOT5_ENCB Pin=P5-4
+Added Pin To Net: NetName=MOT6_OUT1 Pin=P6-1
+Added Pin To Net: NetName=MOT6_OUT2 Pin=P6-2
+Added Pin To Net: NetName=MOT6_ENCA Pin=P6-3
+Added Pin To Net: NetName=RESET Pin=P5-1
+Added Pin To Net: NetName=SCK Pin=P5-2
+Added Pin To Net: NetName=MISO Pin=P5-3
+Added Pin To Net: NetName=MOSI Pin=P5-4
+Added Pin To Net: NetName=5V Pin=P5-5
+Added Pin To Net: NetName=GND Pin=P5-6
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=SW1 Pin=P6-2
+Added Pin To Net: NetName=5V Pin=P6-3
+Added Pin To Net: NetName=MOT3_FB Pin=R34-1
+Added Pin To Net: NetName=GND Pin=R34-2
+Added Pin To Net: NetName=MOT4_FB Pin=R35-1
+Added Pin To Net: NetName=GND Pin=R35-2
+Added Pin To Net: NetName=MOT6_FB Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R36-2
+Added Pin To Net: NetName=MOT5_FB Pin=R37-1
+Added Pin To Net: NetName=GND Pin=R37-2
