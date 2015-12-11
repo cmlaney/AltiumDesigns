@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=L1 Old DesignItemId=Inductor New DesignItemId=TYS6045_inductor
+Change Component Description : Designator=L1 Old Description=Inductor New Description=
+Change Component Library : Designator=L1 Old Library=Miscellaneous Devices.IntLib New Library=Integrated_Library.IntLib
+Added Pin To Net: NetName=GND Pin=H3-21
+Added Pin To Net: NetName=GND Pin=H4-21

@@ -1,0 +1,15 @@
+Change Component DesignItemId : Designator=D3 Old DesignItemId=CMP-0239-00002-1 New DesignItemId=CMP-1012-00001-1
+Change Component DesignItemId : Designator=D4 Old DesignItemId=CMP-0239-00002-1 New DesignItemId=CMP-1012-00001-1
+Change Component DesignItemId : Designator=D5 Old DesignItemId=CMP-0239-00002-1 New DesignItemId=CMP-1012-00001-1
+Change Component DesignItemId : Designator=D6 Old DesignItemId=CMP-0239-00002-1 New DesignItemId=CMP-1012-00001-1
+Change Component DesignItemId : Designator=D7 Old DesignItemId=CMP-0239-00002-1 New DesignItemId=CMP-1012-00001-1
+Change Component Footprint: Designator=D3 Old Footprint=KING-LED0603-25-ORANGE_V New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=D4 Old Footprint=KING-LED0603-25-ORANGE_V New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=D5 Old Footprint=KING-LED0603-25-ORANGE_V New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=D6 Old Footprint=KING-LED0603-25-ORANGE_V New Footprint=RESC0603(1608)_N
+Change Component Footprint: Designator=D7 Old Footprint=KING-LED0603-25-ORANGE_V New Footprint=RESC0603(1608)_N
+Change Component Comment : Designator=D3 Old Comment=APG1608SEKC/T New Comment=LED
+Change Component Comment : Designator=D4 Old Comment=APG1608SEKC/T New Comment=LED
+Change Component Comment : Designator=D5 Old Comment=APG1608SEKC/T New Comment=LED
+Change Component Comment : Designator=D6 Old Comment=APG1608SEKC/T New Comment=LED
+Change Component Comment : Designator=D7 Old Comment=APG1608SEKC/T New Comment=LED

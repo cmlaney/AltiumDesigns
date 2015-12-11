@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=MOT1_A Pin=U1-16
+Removed Pin From Net: NetName=MOT1_FS Pin=U1-17
+Removed Pin From Net: NetName=RX1 Pin=U1-45
+Removed Pin From Net: NetName=TX1 Pin=U1-46
+Change Component DesignItemId : Designator=Analog Old DesignItemId=Header 4X2 New DesignItemId=MHDR2X4
+Change Component Footprint: Designator=Analog Old Footprint=HDR2X4 New Footprint=MHDR2X4
+Change Component Comment : Designator=Analog Old Comment=Header 4X2 New Comment=MHDR2X4
+Added Pin To Net: NetName=RX1 Pin=U1-16
+Added Pin To Net: NetName=TX1 Pin=U1-17

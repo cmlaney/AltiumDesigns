@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VBATT Pin=P10-1
+Removed Pin From Net: NetName=GND Pin=P10-2
+Change Component DesignItemId : Designator=P9 Old DesignItemId=Header 2 New DesignItemId=Hirose2
+Change Component Description : Designator=P9 Old Description=Header, 2-Pin New Description=
+Change Component Library : Designator=P9 Old Library=Miscellaneous Connectors.IntLib New Library=Integrated_Library.IntLib

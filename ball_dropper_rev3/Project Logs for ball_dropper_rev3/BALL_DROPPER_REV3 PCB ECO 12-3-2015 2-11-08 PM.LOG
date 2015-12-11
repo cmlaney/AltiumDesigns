@@ -1,0 +1,18 @@
+Added Component: Designator=R61(RESC0603(1608)_L)
+Added Component: Designator=R62(RESC0603(1608)_L)
+Added Component: Designator=R63(RESC0603(1608)_L)
+Added Component: Designator=R64(RESC0603(1608)_L)
+Added Component: Designator=R65(RESC0603(1608)_L)
+Added Component: Designator=R66(RESC0603(1608)_L)
+Added Pin To Net: NetName=NetC35_1 Pin=R61-1
+Added Pin To Net: NetName=NetC36_1 Pin=R61-2
+Added Pin To Net: NetName=NetC37_1 Pin=R62-1
+Added Pin To Net: NetName=NetC38_1 Pin=R62-2
+Added Pin To Net: NetName=NetC39_1 Pin=R63-1
+Added Pin To Net: NetName=NetC40_1 Pin=R63-2
+Added Pin To Net: NetName=NetC41_1 Pin=R64-1
+Added Pin To Net: NetName=NetC42_1 Pin=R64-2
+Added Pin To Net: NetName=NetC56_1 Pin=R65-1
+Added Pin To Net: NetName=NetC57_1 Pin=R65-2
+Added Pin To Net: NetName=NetC58_1 Pin=R66-1
+Added Pin To Net: NetName=NetC59_1 Pin=R66-2

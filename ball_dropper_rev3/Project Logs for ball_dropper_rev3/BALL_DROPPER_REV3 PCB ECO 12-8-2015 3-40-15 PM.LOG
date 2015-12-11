@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=A3 Pin=U1-82
+Removed Pin From Net: NetName=A2 Pin=U1-83
+Removed Pin From Net: NetName=A1 Pin=U1-84
+Removed Pin From Net: NetName=A0 Pin=U1-85
+Change Component DesignItemId : Designator=Analog Old DesignItemId=MHDR2X4 New DesignItemId=MHDR2X6
+Change Component Footprint: Designator=Analog Old Footprint=MHDR2X4 New Footprint=MHDR2X6
+Change Component Comment : Designator=Analog Old Comment=MHDR2X4 New Comment=MHDR2X6
+Added Pin To Net: NetName=GND Pin=Analog-9
+Added Pin To Net: NetName=GND Pin=Analog-11
+Added Pin To Net: NetName=A3 Pin=U1-84
+Added Pin To Net: NetName=A2 Pin=U1-85
+Added Pin To Net: NetName=A1 Pin=U1-86
+Added Pin To Net: NetName=A0 Pin=U1-87
+Added Pin To Net: NetName=A4 Pin=Analog-10
+Added Pin To Net: NetName=A4 Pin=U1-83
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=Analog-12
+Added Pin To Net: NetName=A5 Pin=U1-82
+Added Net: Name=A5

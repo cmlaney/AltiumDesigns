@@ -1,0 +1,9 @@
+Added Component: Designator=Analog(HDR2X8)
+Added Component: Designator=I2C(DF3A-3P-2DS-RA)
+Added Pin To Net: NetName=GND Pin=I2C-3
+Added Pin To Net: NetName=SCL Pin=I2C-1
+Added Pin To Net: NetName=SCL Pin=U1-43
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=I2C-2
+Added Pin To Net: NetName=SDA Pin=U1-44
+Added Net: Name=SDA

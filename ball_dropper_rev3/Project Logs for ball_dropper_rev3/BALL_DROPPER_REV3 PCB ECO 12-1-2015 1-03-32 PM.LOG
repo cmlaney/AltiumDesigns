@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=NetH3_20 Pin=C2-1
+Removed Pin From Net: NetName=VBATT Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=NetH3_18 Pin=C2-2
+Removed Pin From Net: NetName=5V Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=NetH3_17 Pin=C3-2
+Removed Pin From Net: NetName=VBATT Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=NetC4_1 Pin=C4-1
+Removed Pin From Net: NetName=5V Pin=C4-2
+Removed Pin From Net: NetName=NetC4_2 Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=P12-2
+Removed Pin From Net: NetName=NetC6_2 Pin=R2-1
+Removed Pin From Net: NetName=NetR2_2 Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=NetR3_2 Pin=R3-2
+Removed Pin From Net: NetName=NetR3_2 Pin=R4-1
+Removed Pin From Net: NetName=5V Pin=R4-2
+Change Component DesignItemId : Designator=C3 Old DesignItemId=CMP-1035-02582-1 New DesignItemId=CMP-1035-02800-1
+Change Component DesignItemId : Designator=C2 Old DesignItemId=CMP-1035-02582-1 New DesignItemId=TantalumCap7343
+Change Component DesignItemId : Designator=C4 Old DesignItemId=CMP-1035-02799-1 New DesignItemId=CMP-1035-02701-1
+Change Component Footprint: Designator=C3 Old Footprint=CAPC0603(1608)100_N New Footprint=CAPC0603(1608)100_M
+Change Component Footprint: Designator=C2 Old Footprint=CAPC0603(1608)100_N New Footprint=TantalumCap7343
+Added Component: Designator=H3C2(CAPC0603(1608)100_N)
+Added Component: Designator=H3C3(CAPC0603(1608)100_N)
+Added Component: Designator=H3C4(CAPC0603(1608)100_N)
+Added Component: Designator=R2(RESC0603(1608)_N)
+Added Component: Designator=R3(RESC0603(1608)_N)
+Added Component: Designator=R4(RESC0603(1608)_M)
+Added Pin To Net: NetName=VBATT Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VBATT Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetH3_20 Pin=C2-1
+Added Pin To Net: NetName=NetH3_18 Pin=C2-2
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=NetH3_17 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=5V Pin=C4-2
+Added Pin To Net: NetName=NetC6_2 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-1
+Added Pin To Net: NetName=5V Pin=R4-2

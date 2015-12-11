@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=H3C1
+Change Component Designator: OldDesignator=C1 NewDesignator=H4C1
+Change Component Designator: OldDesignator=C2 NewDesignator=H3C2
+Change Component Designator: OldDesignator=C2 NewDesignator=H4C2
+Change Component Designator: OldDesignator=C3 NewDesignator=H3C3
+Change Component Designator: OldDesignator=C3 NewDesignator=H4C3
+Change Component Designator: OldDesignator=C4 NewDesignator=H3C4
+Change Component Designator: OldDesignator=C4 NewDesignator=H4C4
+Change Component Designator: OldDesignator=R1 NewDesignator=H3R1
+Change Component Designator: OldDesignator=R1 NewDesignator=H4R1
+Change Component Designator: OldDesignator=R2 NewDesignator=H3R2
+Change Component Designator: OldDesignator=R2 NewDesignator=H4R2
+Change Component Designator: OldDesignator=R3 NewDesignator=H3R3
+Change Component Designator: OldDesignator=R3 NewDesignator=H4R3
+Change Component Designator: OldDesignator=R4 NewDesignator=H3R4
+Change Component Designator: OldDesignator=R4 NewDesignator=H4R4
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetH3_19
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetH4_19
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetH3_1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetH4_1
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetH3_20
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetH4_20
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetH3_18
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetH4_18
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetH3_17
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetH4_17
