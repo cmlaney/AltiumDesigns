@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MOT6_FS Pin=U1-51
+Removed Pin From Net: NetName=MOT5_FS Pin=U1-52
+Added Pin To Net: NetName=MOT6_SS Pin=U1-51
+Added Pin To Net: NetName=MOT5_SS Pin=U1-52
