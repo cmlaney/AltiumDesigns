@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VOLTAGEMONITOR Pin=C71-1
+Removed Pin From Net: NetName=GND Pin=C71-2
+Change Component DesignItemId : Designator=C71 Old DesignItemId=CMP-1037-02438-1 New DesignItemId=CMP-1035-02587-1
+Change Component Footprint: Designator=C71 Old Footprint=CAPC1206(3216)100_N New Footprint=CAPC0603(1608)100_L
+Change Component Comment : Designator=C71 Old Comment=CAP 1nF 25V 1206(3216) New Comment=CAP 100nF 25V 0603(1608)
+Added Component: Designator=C72(CAPC0603(1608)100_L)
+Added Component: Designator=MS1(MS5803-05BA)
+Added Pin To Net: NetName=GND Pin=C71-1
+Added Pin To Net: NetName=VOLTAGEMONITOR Pin=C71-2
+Added Pin To Net: NetName=GND Pin=C72-1
+Added Pin To Net: NetName=3.3V Pin=C72-2
+Added Pin To Net: NetName=SCL Pin=MS1-1
+Added Pin To Net: NetName=GND Pin=MS1-2
+Added Pin To Net: NetName=3.3V Pin=MS1-5
+Added Pin To Net: NetName=3.3V Pin=MS1-6
+Added Pin To Net: NetName=SDA Pin=MS1-7

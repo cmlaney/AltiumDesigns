@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=12V Pin=C2-1
+Removed Pin From Net: NetName=NetH3_20 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=NetH3_18 Pin=C2-2
+Removed Pin From Net: NetName=5V Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=12V Pin=C3-2
+Removed Pin From Net: NetName=NetH3_17 Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=NetC4_1 Pin=C4-1
+Removed Pin From Net: NetName=5V Pin=C4-2
+Removed Pin From Net: NetName=NetC4_2 Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=P6-1
+Removed Pin From Net: NetName=5V Pin=P6-3
+Removed Pin From Net: NetName=GND Pin=P7-1
+Removed Pin From Net: NetName=5V Pin=P7-3
+Removed Pin From Net: NetName=NetC6_2 Pin=R2-1
+Removed Pin From Net: NetName=NetR2_2 Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=NetR3_2 Pin=R3-2
+Removed Pin From Net: NetName=NetR3_2 Pin=R4-1
+Removed Pin From Net: NetName=5V Pin=R4-2
+Change Component DesignItemId : Designator=C3 Old DesignItemId=CMP-1035-02582-1 New DesignItemId=CMP-1035-02800-1
+Change Component DesignItemId : Designator=C2 Old DesignItemId=CMP-1035-02582-1 New DesignItemId=TantalumCap7343
+Change Component DesignItemId : Designator=C4 Old DesignItemId=CMP-1035-02799-1 New DesignItemId=CMP-1035-02701-1
+Change Component Footprint: Designator=C3 Old Footprint=CAPC0603(1608)100_N New Footprint=CAPC0603(1608)100_M
+Change Component Footprint: Designator=C2 Old Footprint=CAPC0603(1608)100_N New Footprint=TantalumCap7343
+Change Component Comment : Designator=C3 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=C2 Old Comment=100nF New Comment=100uF
+Change Component Comment : Designator=C4 Old Comment=CAP 10uF 10V 0603(1608) New Comment=470nF
+Change Component Designator: OldDesignator=C1 NewDesignator=H3C1
+Change Component Designator: OldDesignator=C1 NewDesignator=H4C1
+Change Component Designator: OldDesignator=C2 NewDesignator=H4C2
+Change Component Designator: OldDesignator=C3 NewDesignator=H4C3
+Change Component Designator: OldDesignator=C4 NewDesignator=H4C4
+Change Component Designator: OldDesignator=R1 NewDesignator=H3R1
+Change Component Designator: OldDesignator=R1 NewDesignator=H4R1
+Change Component Designator: OldDesignator=R2 NewDesignator=H3R2
+Change Component Designator: OldDesignator=R2 NewDesignator=H4R2
+Change Component Designator: OldDesignator=R3 NewDesignator=H3R3
+Change Component Designator: OldDesignator=R3 NewDesignator=H4R3
+Change Component Designator: OldDesignator=R4 NewDesignator=H3R4
+Change Component Designator: OldDesignator=R4 NewDesignator=H4R4
+Change Component Description : Designator=C4 Old Description=CAP 10uF 10V Â±10% 0603 (1608 Metric) Thickness 1mm SMD New Description=CAP 470nF 16V ±20% 0603 (1608 Metric) Thickness 1mm SMD
+Added Component: Designator=H3C2(CAPC0603(1608)100_N)
+Added Component: Designator=H3C3(CAPC0603(1608)100_N)
+Added Component: Designator=H3C4(CAPC0603(1608)100_N)
+Added Component: Designator=R2(RESC0603(1608)_N)
+Added Component: Designator=R3(RESC0603(1608)_N)
+Added Component: Designator=R4(RESC0603(1608)_M)
+Added Pin To Net: NetName=12V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=12V Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetH3_20 Pin=C2-1
+Added Pin To Net: NetName=NetH3_18 Pin=C2-2
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=NetH3_17 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=5V Pin=C4-2
+Added Pin To Net: NetName=5V Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P6-3
+Added Pin To Net: NetName=5V Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-3
+Added Pin To Net: NetName=NetC6_2 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-1
+Added Pin To Net: NetName=5V Pin=R4-2

@@ -1,0 +1,11 @@
+Added Component: Designator=C71(CAPC1206(3216)100_L)
+Added Component: Designator=R70(RESC0603(1608)_L)
+Added Component: Designator=R71(RESC0603(1608)_L)
+Added Pin To Net: NetName=GND Pin=C71-2
+Added Pin To Net: NetName=GND Pin=R70-1
+Added Pin To Net: NetName=12V Pin=R71-1
+Added Pin To Net: NetName=VOLTAGEMONITOR Pin=C71-1
+Added Pin To Net: NetName=VOLTAGEMONITOR Pin=R70-2
+Added Pin To Net: NetName=VOLTAGEMONITOR Pin=R71-2
+Added Pin To Net: NetName=VOLTAGEMONITOR Pin=U1-88
+Added Net: Name=VOLTAGEMONITOR
