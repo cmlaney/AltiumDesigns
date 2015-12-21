@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: BALL_DROPPER_REV3.PcbDoc   12/21/2015  4:52:37 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BALL_DROPPER_REV3.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          60               6.54 Inch (166.22 mm)
+T2        15mil (0.381mm)          Round          211              31.46 Inch (799.15 mm)
+T3        25mil (0.635mm)          Round          27               7.70 Inch (195.58 mm)
+T4        30mil (0.762mm)          Round          2                0.24 Inch (6.10 mm)
+T5        31.5mil (0.8001mm)       Round          71               12.64 Inch (321.10 mm)
+T6        35mil (0.889mm)          Round          7                5.18 Inch (131.58 mm)
+T7        40mil (1.016mm)          Round          8                1.86 Inch (47.34 mm)
+---------------------------------------------------------------------------
+Totals                                            386              65.63 Inch (1667.05 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
