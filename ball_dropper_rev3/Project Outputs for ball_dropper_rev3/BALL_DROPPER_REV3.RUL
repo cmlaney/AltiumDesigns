@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\AltiumDesigns\ball_dropper_rev3\BALL_DROPPER_REV3.PcbDoc
+DRC Rules Export File for PCB: C:\Users\Christian\Documents\Altium\AltiumDesigns\ball_dropper_rev3\BALL_DROPPER_REV3.PcbDoc
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00

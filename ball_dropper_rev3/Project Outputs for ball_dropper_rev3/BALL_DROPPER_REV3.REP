@@ -7,14 +7,6 @@ Generating : Top Layer
 
     Adding Layer      : Top Layer
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 7
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
     Adding Layer      : Multi-Layer
 
 
@@ -61,11 +53,6 @@ Used DCodes :
     D49
     D50
     D51
-    D52
-    D53
-    D54
-    D55
-    D56
 *************************************************************
 
 *************************************************************
@@ -74,31 +61,20 @@ Generating : Power
 
     Adding Layer      : Power
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 7
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D33
     D37
-    D38
-    D39
-    D40
-    D41
-    D42
+    D48
+    D52
     D53
+    D54
+    D55
+    D56
     D57
     D58
-    D59
-    D60
-    D61
 *************************************************************
 
 *************************************************************
@@ -107,30 +83,17 @@ Generating : GND
 
     Adding Layer      : GND
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 7
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D53
+    D48
+    D54
+    D55
+    D56
     D57
-    D58
     D59
-    D60
-    D62
 *************************************************************
 
 *************************************************************
@@ -138,14 +101,6 @@ Generating : Bottom Layer
       File : BALL_DROPPER_REV3.GBL
 
     Adding Layer      : Bottom Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 7
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
 
     Adding Layer      : Multi-Layer
 
@@ -175,10 +130,9 @@ Used DCodes :
     D50
     D51
     D52
-    D53
-    D54
-    D55
-    D56
+    D60
+    D61
+    D62
     D63
     D64
     D65
@@ -193,10 +147,6 @@ Used DCodes :
     D74
     D75
     D76
-    D77
-    D78
-    D79
-    D80
 *************************************************************
 
 *************************************************************
@@ -205,27 +155,16 @@ Generating : Top Overlay
 
     Adding Layer      : Top Overlay
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 7
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
 
 Used DCodes :
     D31
     D34
-    D38
-    D39
-    D40
-    D41
-    D42
+    D77
+    D78
+    D79
+    D80
     D81
     D82
-    D83
-    D84
 *************************************************************
 
 *************************************************************
@@ -233,14 +172,6 @@ Generating : Top Paste
       File : BALL_DROPPER_REV3.GTP
 
     Adding Layer      : Top Paste
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 7
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
 
     Adding Layer      : Top Layer
 
@@ -269,11 +200,6 @@ Used DCodes :
     D28
     D29
     D30
-    D38
-    D39
-    D40
-    D41
-    D42
 *************************************************************
 
 *************************************************************
@@ -282,25 +208,14 @@ Generating : Top Solder
 
     Adding Layer      : Top Solder
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 7
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
     Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D38
-    D39
-    D40
-    D41
-    D42
+    D83
+    D84
     D85
     D86
     D87
@@ -329,8 +244,6 @@ Used DCodes :
     D110
     D111
     D112
-    D113
-    D114
 *************************************************************
 
 *************************************************************
@@ -339,14 +252,6 @@ Generating : Bottom Solder
 
     Adding Layer      : Bottom Solder
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 7
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
     Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
@@ -354,14 +259,11 @@ Generating : Bottom Solder
 
 Used DCodes :
     D31
-    D38
-    D39
-    D40
-    D41
-    D42
+    D83
     D85
-    D87
-    D101
+    D99
+    D104
+    D105
     D106
     D107
     D108
@@ -382,8 +284,6 @@ Used DCodes :
     D123
     D124
     D125
-    D126
-    D127
 *************************************************************
 
 *************************************************************
@@ -391,14 +291,6 @@ Generating : Bottom Paste
       File : BALL_DROPPER_REV3.GBP
 
     Adding Layer      : Bottom Paste
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 7
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
 
     Adding Layer      : Bottom Layer
 
@@ -409,11 +301,9 @@ Used DCodes :
     D10
     D12
     D26
-    D38
-    D39
-    D40
-    D41
-    D42
+    D60
+    D61
+    D62
     D63
     D64
     D65
@@ -424,9 +314,6 @@ Used DCodes :
     D70
     D71
     D72
-    D73
-    D74
-    D75
 *************************************************************
 
 *************************************************************
@@ -435,25 +322,13 @@ Generating : Bottom Overlay
 
     Adding Layer      : Bottom Overlay
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 7
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
 
 Used DCodes :
     D31
-    D38
-    D39
-    D40
-    D41
-    D42
-    D81
-    D82
-    D83
+    D77
+    D78
+    D79
+    D80
 *************************************************************
 
 *************************************************************
@@ -462,21 +337,8 @@ Generating : Keep-Out Layer
 
     Adding Layer      : Keep-Out Layer
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 7
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
 
 Used DCodes :
-    D38
-    D39
-    D40
-    D41
-    D42
 *************************************************************
 
 *************************************************************
@@ -485,21 +347,9 @@ Generating : Mechanical 1
 
     Adding Layer      : Mechanical 1
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 7
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
 
 Used DCodes :
-    D38
-    D39
-    D40
-    D41
-    D42
+    D81
 *************************************************************
 
 *************************************************************
@@ -508,21 +358,8 @@ Generating : Mechanical 7
 
     Adding Layer      : Mechanical 7
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 7
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
 
 Used DCodes :
-    D38
-    D39
-    D40
-    D41
-    D42
 *************************************************************
 
 *************************************************************
@@ -531,21 +368,10 @@ Generating : Mechanical 13
 
     Adding Layer      : Mechanical 13
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 7
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
 
 Used DCodes :
-    D38
-    D39
-    D40
-    D41
-    D42
+    D80
+    D126
 *************************************************************
 
 *************************************************************
@@ -554,20 +380,10 @@ Generating : Mechanical 15
 
     Adding Layer      : Mechanical 15
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 7
-
-    Adding Layer      : Mechanical 13
-
-    Adding Layer      : Mechanical 15
-
 
 Used DCodes :
-    D38
-    D39
-    D40
-    D41
-    D42
+    D80
+    D127
+    D128
 *************************************************************
 
